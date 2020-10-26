@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todo_Web_api", "Todo_Web_api\Todo_Web_api.csproj", "{3EDBC9B5-07AD-47BB-A8B0-ED6ED749CECA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EDBC9B5-07AD-47BB-A8B0-ED6ED749CECA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EDBC9B5-07AD-47BB-A8B0-ED6ED749CECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EDBC9B5-07AD-47BB-A8B0-ED6ED749CECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EDBC9B5-07AD-47BB-A8B0-ED6ED749CECA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
